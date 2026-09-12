@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "class-timetable-1",
+    "title": "B.Tech I Year · Computer Science and Business Systems · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/CSBS_II_Sem_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "I",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-2",
+    "title": "B.Tech I Year · Computer Science and Business Systems · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/CSBS_II_Sem_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "I",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-3",
+    "title": "B.Des I Year · Bachelor of Design",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/I_yr_B_Des.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Des",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-4",
+    "title": "B.Tech I Year · Computer Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1yr_CS_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "I",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-5",
+    "title": "B.Tech I Year · Computer Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1yr_CS_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "I",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-6",
+    "title": "B.Tech I Year · Information Technology · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1stYr__IT__A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "I",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-7",
+    "title": "B.Tech I Year · Information Technology · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1stYr__IT__B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "I",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-8",
+    "title": "B.Tech I Year · Electronics & Telecommunication Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1st_yr_ETc_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "I",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-9",
+    "title": "B.Tech I Year · Electronics & Telecommunication Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1st_yr_ETc_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "I",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-10",
+    "title": "B.Tech I Year · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1st_yr_EI.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "EI",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-11",
+    "title": "B.Tech I Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/I_yr_Mech_Engg.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ME",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-12",
+    "title": "B.Tech I Year · Civil Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/1styr_Civil.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-13",
+    "title": "B.Tech II Year · Computer Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_CS_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "II",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-14",
+    "title": "B.Tech III Year · Computer Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_CS_A-1.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "III",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-15",
+    "title": "B.Tech IV Year · Computer Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_CS-A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "IV",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-16",
+    "title": "B.Tech II Year · Computer Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_CS_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "II",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-17",
+    "title": "B.Tech III Year · Computer Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_CS_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "III",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-18",
+    "title": "B.Tech IV Year · Computer Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_CS-B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "IV",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-19",
+    "title": "B.Tech II Year · Information Technology · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_IT_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "II",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-20",
+    "title": "B.Tech III Year · Information Technology · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_IT_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "III",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-21",
+    "title": "B.Tech IV Year · Information Technology · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_IT_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "IV",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-22",
+    "title": "B.Tech II Year · Information Technology · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_IT_B-2.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "II",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-23",
+    "title": "B.Tech III Year · Information Technology · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_IT_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "III",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-24",
+    "title": "B.Tech IV Year · Information Technology · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_IT_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "IV",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-25",
+    "title": "B.Tech II Year · Electronics & Telecommunication Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_ETC_A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "II",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-26",
+    "title": "B.Tech III Year · Electronics & Telecommunication Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_ETC__A.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "III",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-27",
+    "title": "B.Tech IV Year · Electronics & Telecommunication Engineering · Section A",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_ETC.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "IV",
+    "section": "A",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-28",
+    "title": "B.Tech II Year · Electronics & Telecommunication Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_ETC_B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "II",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-29",
+    "title": "B.Tech III Year · Electronics & Telecommunication Engineering · Section B",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_ETC__B.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "III",
+    "section": "B",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-30",
+    "title": "B.Tech II Year · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIyr_EI.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "EI",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-31",
+    "title": "B.Tech III Year · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IIIyr_EI.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "EI",
+    "year": "III",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-32",
+    "title": "B.Tech IV Year · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IVyr_EI.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "EI",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-33",
+    "title": "B.Tech II Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/II_Yr_Mech_Engg.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ME",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-34",
+    "title": "B.Tech III Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/III_Yr_Mech_Engg.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ME",
+    "year": "III",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-35",
+    "title": "B.Tech IV Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IV_Yr_Mech_Engg.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "ME",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-36",
+    "title": "B.Tech (PTDC) II Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/BE_PTDC_IIyr_MECH.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-37",
+    "title": "B.Tech (PTDC) III Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/BE_PTDC_IIIyr_MECH.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "year": "III",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-38",
+    "title": "B.Tech (PTDC) IV Year · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/BE_PTDC_IVyr_MECH.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-39",
+    "title": "B.Tech II Year · Civil Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/II_Yr_Civil.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-40",
+    "title": "B.Tech III Year · Civil Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/III_Yr_Civil.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "III",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-41",
+    "title": "B.Tech IV Year · Civil Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/IV_Yr_Civil.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-42",
+    "title": "B.Tech II Year · Computer Science and Business Systems",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2024/08/CSBS_IV_Sem.pdf",
+    "kind": "class-timetable",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-06"
+  },
+  {
+    "id": "class-timetable-43",
+    "title": "M.Tech I Year · Computer Engineering · Software Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Iyr_CS_ME.pdf",
+    "kind": "class-timetable",
+    "programme": "M.Tech",
+    "branch": "CSE",
+    "year": "I",
+    "note": "Software Engineering",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-44",
+    "title": "M.Tech I Year · Information Technology · Information Security",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Iyr_IT_ME.pdf",
+    "kind": "class-timetable",
+    "programme": "M.Tech",
+    "branch": "IT",
+    "year": "I",
+    "note": "Information Security",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-45",
+    "title": "M.Sc I Year",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/MSc_I_Sem_2_Jan-April_26.pdf",
+    "kind": "class-timetable",
+    "programme": "M.Sc",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "class-timetable-46",
+    "title": "M.Sc II Year",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/MSc_II_Sem_4_Jan-April_26.pdf",
+    "kind": "class-timetable",
+    "programme": "M.Sc",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-47",
+    "title": "BE. IV year (For Internship only All Branches) Theory Examination tima-table May-June 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BE._IV_year_For_Internship_only_All_Branches.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-48",
+    "title": "Revised B.Tech II 3rd Sem Elec.&Telecomm. Eng Old Scheme Ex Exam Theory Time Table May-June 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BE._II_YR_OLD_EX_TIME_TABLE_Revised_May_2026.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-49",
+    "title": "Revised BE II year CS (EX) Theory Examination Time Table May-June 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Revised_TT_For_BE_II_year_Computer_Engg_EX.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-50",
+    "title": "Revised (28th APRIL 2026) B.Tech. IV Yr (All Branches) Regular Theory Examination Time Table.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Revised_28th_April_2026_BE_IV_Year_Theory_timetable.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-51",
+    "title": "Revised (28th APRIL 2026) B.Tech. III Yr (All Branches) Regular Theory Examination Time Table.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Revised_28th_APRIL_2026BE_III_year_timetable.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "III",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-52",
+    "title": "B. Tech (Ex) Practical TT APRIL 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B._Tech_Ex_Practical_TT_APRIL_2026.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-53",
+    "title": "Revised M.Tech. I Year Full Time (Ex-Students) Theory Exam Time-Table May-June 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Revised_M._Tech_I_Year_full_time_EX.pdf",
+    "kind": "exam-timetable",
+    "programme": "M.Tech",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-54",
+    "title": "Revised Practical Exam Time-Table B.Tech II-IV year CS/ IT/CSBS for regular and Ex students.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Revised_Practical_Exam_Time-Table_B.Tech_II-IV_year_CS_ITCSBS_for_regular_and_Ex_students.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-55",
+    "title": "BE. I Year Mechanical (PTDC) Practical Exam Time-Table April- May 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BE_I_Year_Mechanical_Engg_Part_Time.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-56",
+    "title": "B.Tech II Year (All Branches) Old Code Ex Theory Exam Time-Table May-June 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B._Tech_II_Yr_all_branches_EX.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-57",
+    "title": "Revised Practical Time Table E&TC and E&I - BE II TO IV YR (Reg+PT), MTech I and II yr regular and Ex students.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Practical_Time_Table_ETC_and_EI_-_BE_II_TO_IV_YR_RegPT_MTech_I_and_II_yr_regular_and_Ex_students.pdf",
+    "kind": "exam-timetable",
+    "programme": "M.Tech",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-58",
+    "title": "B.Des I year (regular+ ex) Practical Exam Time table",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BDes_I_regular__ex_Practical_Exam_Time_table.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Des",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-59",
+    "title": "B.Tech I year CSBS Practical Exam (regular+ ex) Time table",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BTech_I_CSBS_Practical_exam_TT.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-60",
+    "title": "B.Tech I year (regular+ ex) Practical Exam Time table",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_I_practical_TT.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-61",
+    "title": "Practical Time Table Civil Ex BE II to IV year April-May 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Civil_Ex_Practical_april-May_2026.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-62",
+    "title": "Practical Time Table Mechanical and Civil BE II to IV year M.Tech I and II year regular April-May 2026.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Mechanical_and_Civil_Practical_Time-Table_April-May_2026.pdf",
+    "kind": "exam-timetable",
+    "programme": "M.Tech",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-63",
+    "title": "Practical Exam Time Table 1st & 2nd year M.Tech. CS/ IT for regular and Ex students.",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Practical_Time_Table_1st__2nd_year_M.Tech_.pdf",
+    "kind": "exam-timetable",
+    "programme": "M.Tech",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-64",
+    "title": "Practical and CV Time Table for 4th year Internship students",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Practical_and_CV_Time_table_for_4th_year_Internship_students.pdf",
+    "kind": "exam-timetable",
+    "year": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-65",
+    "title": "B.Tech. I Yr., B.Des. I yr., B.Tech. (PTDC) I yr.Mech., M.Tech. I yr. (All Branches), M.Sc. I yr.Theory Examination Time Table",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Regular_exam_timetable-_1st_Year_All.pdf",
+    "kind": "exam-timetable",
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-66",
+    "title": "B.Tech. II Yr (All Branches), M.Sc. II yr. Regular Theory Examination Time Table",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Regular_exam_timetable-_2nd_Year_All.pdf",
+    "kind": "exam-timetable",
+    "programme": "M.Sc",
+    "year": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "exam-timetable-67",
+    "title": "Ex Exam Timetable- All years - All branches",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/EX_end_sem_exam_May-Jun_2026_.pdf",
+    "kind": "exam-timetable",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-68",
+    "title": "B.Tech Scheme & Syllabus · Computer Science and Business Systems · Semester I",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/I_Sem_CSBS_Syllabus.pdf",
+    "kind": "syllabus",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "I",
+    "semester": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-69",
+    "title": "B.Tech Scheme & Syllabus · Computer Science and Business Systems · Semester II",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/II_Sem_CSBS_Syllabus.pdf",
+    "kind": "syllabus",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "I",
+    "semester": "II",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-70",
+    "title": "B.Tech Scheme & Syllabus · Computer Science and Business Systems · Semester III",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/III_Sem_CSBS_Syllabus_.pdf",
+    "kind": "syllabus",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "II",
+    "semester": "III",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-71",
+    "title": "B.Tech Scheme & Syllabus · Computer Science and Business Systems · Semester IV",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/IV_Sem_CSBS_Syllabus.pdf",
+    "kind": "syllabus",
+    "programme": "B.Tech",
+    "branch": "CSBS",
+    "year": "II",
+    "semester": "IV",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-72",
+    "title": "B.Tech Scheme & Syllabus · I Year",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/AV-BTech_I_yr_wef_2024.pdf",
+    "kind": "syllabus",
+    "programme": "B.Tech",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "syllabus-73",
+    "title": "B.Des Scheme & Syllabus · I Year",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BDesign_Scheme_Syllabus_2025.pdf",
+    "kind": "syllabus",
+    "programme": "B.Des",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-74",
+    "title": "Roll List · Computer Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_CS_RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-75",
+    "title": "Roll List · Information Technology",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_IT_RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "IT",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-76",
+    "title": "Roll List · Electronics & Telecommunication Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_ETC_RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-77",
+    "title": "Roll List · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_EI_RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "EI",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-78",
+    "title": "Roll List · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_Mech__RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "ME",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "roll-list-79",
+    "title": "Roll List · Civil Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/B.Tech_Civil_RollList_2025.pdf",
+    "kind": "roll-list",
+    "programme": "B.Tech",
+    "branch": "CE",
+    "year": "I",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "project-format-80",
+    "title": "Internship Report Format April-2022 (for students who have opted for Internship)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Internship_Report_Format_2022-Updated.docx",
+    "kind": "project-format",
+    "year": "IV",
+    "format": "docx",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-81",
+    "title": "Sample Thesis",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Sample-Thesis.pdf",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "pdf",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-82",
+    "title": "Synopsis",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Synopsis_2019.doc",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "doc",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-83",
+    "title": "SDS Format",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/SDS_UPATED_2022.doc",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "doc",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-84",
+    "title": "SRS Format",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/SRS_UPDATED_2022.doc",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "doc",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-85",
+    "title": "Sample Document (Use Case Diagram & Description)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/SAMPLE_DOCUMENT-_UseCase_Diagram_and-_Description.pdf",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "pdf",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-86",
+    "title": "Project Report Format (for Application Projects)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/New-Report_Format_BE__for_Application_projects_2022.doc",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "doc",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-87",
+    "title": "Project Report Format (for Research Projects)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/New-Report_Format_BE_2019_for_Research_projects.doc",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "doc",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-88",
+    "title": "Dos & Donts",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Dos-and-Donts-Updated.docx",
+    "kind": "project-format",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "year": "IV",
+    "note": "Computer Engineering · Information Technology",
+    "format": "docx",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "project-format-89",
+    "title": "Report Format",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BE_IVyr_Project_Report_format_ETC.pdf",
+    "kind": "project-format",
+    "branch": "ETC",
+    "branches": [
+      "ETC"
+    ],
+    "year": "IV",
+    "note": "Electronics & Telecommunication Engineering",
+    "format": "pdf",
+    "updated": "2026-05-12"
+  },
+  {
+    "id": "feedback-report-90",
+    "title": "Student Feedback Report · Computer Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Computer-Engineering.pdf",
+    "kind": "feedback-report",
+    "branch": "CSE",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-91",
+    "title": "Student Feedback Report · Information Technology",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Information-Technology.pdf",
+    "kind": "feedback-report",
+    "branch": "IT",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-92",
+    "title": "Student Feedback Report · Electronics & Telecommunication Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Electronics-and-Telecommunication.pdf",
+    "kind": "feedback-report",
+    "branch": "ETC",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-93",
+    "title": "Student Feedback Report · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Electronics-and-Instrumentation.pdf",
+    "kind": "feedback-report",
+    "branch": "EI",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-94",
+    "title": "Student Feedback Report · Mechanical Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Mechanical-Engineering.pdf",
+    "kind": "feedback-report",
+    "branch": "ME",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-95",
+    "title": "Action Taken Report · Electronics & Telecommunication Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Action_Taken_Report_Student_Feedback_ETC_23-24.pdf",
+    "kind": "feedback-report",
+    "branch": "ETC",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "feedback-report-96",
+    "title": "Action Taken Report · Electronics & Instrumentation Engineering",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/EI_Action_Taken_Report_Student_Feedback_23-24.pdf",
+    "kind": "feedback-report",
+    "branch": "EI",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "admission-97",
+    "title": "B.Tech. Programs · General Information",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/UG_Admissions_BTech.pdf",
+    "kind": "admission",
+    "programme": "B.Tech",
+    "format": "pdf",
+    "updated": "2026-05-16"
+  },
+  {
+    "id": "admission-98",
+    "title": "B.Tech. Programs · FAQs",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/BTech_FAQs.pdf",
+    "kind": "admission",
+    "programme": "B.Tech",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "admission-99",
+    "title": "B.Design Program · General Information",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/UG_Admissions_BDes.pdf",
+    "kind": "admission",
+    "programme": "B.Des",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "admission-100",
+    "title": "M.Tech. Program · General Information",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/PG_Admissions_MTech.pdf",
+    "kind": "admission",
+    "programme": "M.Tech",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "admission-101",
+    "title": "M.Tech. Program · FAQs",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/MTech_FAQs.pdf",
+    "kind": "admission",
+    "programme": "M.Tech",
+    "format": "pdf",
+    "updated": "2026-05-14"
+  },
+  {
+    "id": "disclosure-102",
+    "title": "EOA(s)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/EoA.pdf",
+    "kind": "disclosure",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "disclosure-104",
+    "title": "Summary of UGC Regulations",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Computer-Engineering.pdf",
+    "kind": "disclosure",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  },
+  {
+    "id": "disclosure-105",
+    "title": "Summary of the Supreme court Judgment",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/SUMMARY_OF_UGC_REGULATIONS.pdf",
+    "kind": "disclosure",
+    "format": "pdf",
+    "updated": "2026-05-13"
+  }
+]

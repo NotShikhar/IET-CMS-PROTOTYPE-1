@@ -1,0 +1,27 @@
+{
+  "session": "2026-27",
+  "intro": "Admission to IET's undergraduate and postgraduate programmes is made through the University's transparent Computer Based Common Entrance Test (CET), held across multiple cities. Programme brochures and FAQ documents are listed below; for anything not covered, the admission cell is reachable on the numbers at the bottom of this page.",
+  "tracks": [
+    { "programme": "B.Tech. Programs", "status": "open", "note": "Nine full-time branches" },
+    { "programme": "B.Design Program", "status": "open", "note": "Four-year design degree" },
+    { "programme": "M.Tech. Program", "status": "open", "note": "Seven specialisations, full and part time" },
+    { "programme": "M.B.A. Program", "status": "coming-soon", "note": "MBA in Technology Management" }
+  ],
+  "scholarships": {
+    "intro": "Students of IET can avail various scholarships offered by the State Government, Central Government, and other agencies. For detailed eligibility criteria, application procedures, and updates, students are advised to visit the respective scholarship portals and to check institute notices for renewal deadlines.",
+    "state": [
+      "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)",
+      "Mukhyamantri Jan Kalyan Yojana — Sambal Yojana (MMJKY)",
+      "Post Matric Scholarship for SC Category",
+      "Post Matric Scholarship for ST Category",
+      "Post Matric Scholarship for OBC Category",
+      "AWAS Scholarship for SC & ST Category"
+    ],
+    "central": [
+      "Central Sector Scheme of Scholarships (via NSP Portal)",
+      "AICTE — Pragati Scholarship Scheme (via NSP Portal)",
+      "AICTE — Swanath Scholarship Scheme (via NSP Portal)",
+      "Post Matric Scholarship for Students with Disabilities (via NSP Portal)"
+    ]
+  }
+}

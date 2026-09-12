@@ -1,0 +1,71 @@
+[
+  {
+    "award": "B.Tech.",
+    "mode": "Full Time",
+    "duration": "4 years",
+    "blurb": "Nine undergraduate engineering branches admitting through the university's Common Entrance Test.",
+    "items": [
+      { "name": "Computer Science and Engineering", "code": "CSE" },
+      { "name": "Information Technology", "code": "IT" },
+      { "name": "Electronics & Telecommunication", "code": "E&TC" },
+      { "name": "Electronics & Instrumentation", "code": "E&I" },
+      { "name": "Mechanical Engineering", "code": "ME" },
+      { "name": "Civil Engineering", "code": "CE" },
+      { "name": "Computer Science and Business Systems", "code": "CSBS" },
+      { "name": "Industrial Production", "code": "IP" },
+      { "name": "Electrical and Electronics Engineering", "code": "EEE" }
+    ]
+  },
+  {
+    "award": "B.Tech.",
+    "mode": "Part Time",
+    "duration": "4 years",
+    "blurb": "The part-time degree course for working diploma holders, run as BE (PTDC).",
+    "items": [{ "name": "Mechanical Engineering", "code": "ME" }]
+  },
+  {
+    "award": "M.Tech.",
+    "mode": "Full Time",
+    "duration": "2 years",
+    "blurb": "Seven postgraduate specialisations, several also offered part-time over three years.",
+    "items": [
+      { "name": "Computer Engineering", "code": "Software Engineering" },
+      { "name": "Information Technology", "code": "Information Security" },
+      { "name": "Electronics Engineering", "code": "IoT and Automation" },
+      { "name": "Electronics & Instrumentation", "code": "E&I" },
+      { "name": "Industrial Engineering & Management", "code": "IEM" },
+      { "name": "Mechanical Engineering", "code": "Design & Thermal Engineering" },
+      { "name": "Microelectronics & VLSI Design", "code": "VLSI" }
+    ]
+  },
+  {
+    "award": "M.B.A.",
+    "mode": "Full Time",
+    "duration": "2 years",
+    "blurb": "Management education positioned at the intersection of technology and enterprise.",
+    "items": [{ "name": "MBA in Technology Management", "code": "Tech Management" }]
+  },
+  {
+    "award": "M.Sc.",
+    "mode": "Full Time",
+    "duration": "2 years",
+    "blurb": "Postgraduate science with a computing emphasis, run by the Applied Science department.",
+    "items": [{ "name": "Applied Mathematics", "code": "Computing and Informatics" }]
+  },
+  {
+    "award": "Ph.D.",
+    "mode": "Full Time",
+    "duration": "Minimum 3 years",
+    "blurb": "Doctoral research across all eight departments, feeding a hundred-plus publications a year.",
+    "items": [
+      { "name": "Computer Engineering", "code": "CSE" },
+      { "name": "Information Technology", "code": "IT" },
+      { "name": "Electronics & Telecommunication Engineering", "code": "E&TC" },
+      { "name": "Electronics & Instrumentation Engineering", "code": "E&I" },
+      { "name": "Mechanical Engineering", "code": "ME" },
+      { "name": "Applied Physics", "code": "Physics" },
+      { "name": "Applied Chemistry", "code": "Chemistry" },
+      { "name": "Applied Mathematics", "code": "Mathematics" }
+    ]
+  }
+]

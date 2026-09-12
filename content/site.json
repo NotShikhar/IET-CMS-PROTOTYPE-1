@@ -1,0 +1,61 @@
+{
+  "name": "Institute of Engineering & Technology",
+  "shortName": "IET DAVV",
+  "parent": "Devi Ahilya Vishwavidyalaya, Indore",
+  "motto": "धियो यो नः प्रचोदयात्",
+  "mottoTranslit": "Dhiyo Yo Nah Prachodayat",
+  "mottoMeaning": "May he inspire our intellect",
+  "established": "4 September 1996",
+  "accreditation": [
+    "Autonomous Institute",
+    "AICTE Approved",
+    "UGC Recognised",
+    "DAVV — NAAC A+"
+  ],
+  "address": {
+    "line1": "Khandwa Road",
+    "line2": "Vikramshila Parisar",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pin": "452017",
+    "country": "India"
+  },
+  "phones": ["0731-2361116", "0731-2361117"],
+  "emails": {
+    "director": "director@ietdavv.edu.in",
+    "webmaster": "webmaster@ietdavv.edu.in"
+  },
+  "admissionContacts": ["98264 18567", "89821 77634", "88897 86191"],
+  "social": [
+    { "label": "Facebook", "href": "#" },
+    { "label": "Instagram", "href": "#" },
+    { "label": "LinkedIn", "href": "#" },
+    { "label": "YouTube", "href": "#" }
+  ],
+  "nav": [
+    { "label": "About", "href": "/about" },
+    { "label": "Programmes", "href": "/programmes" },
+    { "label": "Departments", "href": "/departments" },
+    { "label": "Admissions", "href": "/admissions" },
+    { "label": "Resources", "href": "/resources" },
+    { "label": "Notices", "href": "/notices" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "quickLinks": [
+    { "label": "Anti-Ragging & Discipline", "href": "/resources?kind=disclosure" },
+    { "label": "Mandatory Disclosure & EOA", "href": "/resources?kind=disclosure" },
+    { "label": "Scholarships", "href": "/admissions#scholarships" },
+    { "label": "Student Feedback", "href": "/resources?kind=feedback-report" },
+    { "label": "Examination Timetables", "href": "/resources?kind=exam-timetable" },
+    { "label": "Class Timetables", "href": "/resources?kind=class-timetable" },
+    { "label": "Roll Lists", "href": "/resources?kind=roll-list" },
+    { "label": "Project Formats", "href": "/resources?kind=project-format" }
+  ],
+  "externalLinks": [
+    { "label": "DAVV University Website", "href": "https://www.dauniv.ac.in/" },
+    { "label": "Online Grievance Redressal", "href": "https://www.dauniv.ac.in/grievance-redressal-system" },
+    { "label": "Spoken Tutorial (IIT Bombay)", "href": "http://spoken-tutorial.org/" },
+    { "label": "McGraw Hill E-Books", "href": "https://resolver.vitalsource.com/" },
+    { "label": "Wiley E-Books", "href": "https://ebooks.wileyindia.com/" }
+  ]
+}

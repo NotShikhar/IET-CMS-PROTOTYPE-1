@@ -1,0 +1,38 @@
+{
+  "director": {
+    "name": "Dr. Pratosh Bansal",
+    "role": "Director",
+    "department": "Professor, Department of Information Technology",
+    "photo": "/media/people/pratosh-bansal.webp",
+    "email": "director@ietdavv.edu.in",
+    "since": "10 July 2025",
+    "qualifications": [
+      "B.E. (Mechanical Engineering)",
+      "M.Tech (Energy Management)",
+      "M.Tech (Computer Science)",
+      "Ph.D. (Computer Engineering), 2011"
+    ],
+    "interests": ["ERP", "Knowledge Management", "Digital Forensics", "Green IT", "Energy Systems"],
+    "bio": "Dr. Pratosh Bansal joined DAVV in 1999 and has since contributed to academic innovation, institutional development and quality assurance across the higher education system. He played a key role in establishing technical laboratories, the institutional MIS, AICTE and NAAC compliance frameworks, and university automation systems. He is also Director-IQAC and Director of the Centre for Distance and Online Education at the University, and has served on deputation as Group CEO of a chemical enterprise, implementing system-based process management. He is Principal Investigator for the ₹100 Crore ANRF-PAIR Project with IIT Indore as hub.",
+    "alsoHolds": ["Director — IQAC, DAVV", "Director — Centre for Distance and Online Education, DAVV"]
+  },
+  "administrativeOfficer": {
+    "name": "Dr. Paresh Atri",
+    "role": "Administrative Officer",
+    "photo": "/media/people/paresh-atri.jpg",
+    "email": "p_atri@rediffmail.com",
+    "phones": ["0731-2368531", "9977820281"],
+    "qualifications": [
+      "Ph.D. (Management), Devi Ahilya Vishwavidyalaya",
+      "MBA (e-Commerce)",
+      "Bachelor of Science",
+      "Diploma in Electronics and Telecommunication"
+    ],
+    "bio": "Associated with the institute since its formative years in 1998, with 25 years of overall experience. He is responsible for campus facilities and the smooth running of the Administrative Office, supervising admissions, accounting and other administrative activity, and has taught Humanities & Engineering Economics, Management Information Systems, and Entrepreneurship Development & IPR as visiting faculty for over ten years.",
+    "papers": [
+      "Electronic Payments: Methodology for Adaptation in Govt. Organizations",
+      "Smart Governance, An Institutional Case Study",
+      "Assessment of Manpower requirement in IT industry"
+    ]
+  }
+}

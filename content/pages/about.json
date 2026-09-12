@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "eyebrow": "About the Institute",
+    "title": "A community of curious minds",
+    "standfirst": "Founded on 4 September 1996 with ninety students and three branches, IET today welcomes over nine hundred a year — and holds its place among Central India's most reputed engineering institutes.",
+    "image": "/media/campus/academic-block.jpg"
+  },
+  "iet": {
+    "title": "About IET",
+    "body": [
+      "The Institute of Engineering & Technology (IET), established on 4 September 1996 under Devi Ahilya Vishwavidyalaya, Indore, is one of Central India's most reputed engineering institutes. Beginning its journey with just 90 students across three branches, the institute today welcomes over 900 students annually across a wide spectrum of undergraduate, postgraduate, and doctoral programmes.",
+      "An autonomous, AICTE-approved and UGC-recognised institution, IET operates under the Faculty of Engineering of DAVV — a NAAC A+ accredited university. The institute has earned consistent recognition for its rigorous curriculum, research culture, and industry-aligned teaching. Its campus on Vikramshila Parisar, Indore, notably served as the temporary campus of IIT Indore from 2009–10, a testament to the quality of its infrastructure and academic environment.",
+      "With over 100 research publications annually, active MoUs with industry leaders, and a Principal Investigator-led ANRF-PAIR Project in partnership with IIT Indore, IET stands at the forefront of engineering education and innovation in Madhya Pradesh. Its graduates are placed across IT, manufacturing, consulting, and core engineering sectors, with a highest package of ₹57 LPA and strong representation in top global companies."
+    ]
+  },
+  "visionMissionIET": {
+    "title": "Vision & Mission — IET",
+    "vision": "To be a leading human resource development centre for generating, advancing and disseminating knowledge, serve and build value to the society and industry through research, entrepreneurship and outreach activities.",
+    "missionIntro": "IET-DAVV puts premium on:",
+    "mission": [
+      "Creating an enthusiastic and synergetic learning environment.",
+      "Developing the youth into well-groomed, confident personalities, eager to take the upcoming challenges.",
+      "Striving for finding solutions to the societal problems through research and innovation.",
+      "Promoting the exchange of ideas, expertise and use of facilities with other institutions.",
+      "Establishing an environment for innovation, start-ups and technology based businesses.",
+      "Instilling pride in India's cultural heritage and commitment to serve the country under all circumstances."
+    ]
+  },
+  "davv": {
+    "title": "About DAVV",
+    "body": [
+      "Devi Ahilya Vishwavidyalaya (DAVV), formerly known as the University of Indore, is a premier university in Central India with over 62 years of educational commitment and service to society. Established in 1964 by an Act of the Legislature of Madhya Pradesh, DAVV holds the distinction of being the first State University in Madhya Pradesh to be accredited with an 'A+' grade by NAAC.",
+      "DAVV is an affiliating State University whose jurisdiction spans three districts of Indore Division, including Indore — the most industrially advanced district of Madhya Pradesh — as well as two tribal population dominant districts of the State. This unique geographical mandate enables the University to serve both urban industry and underserved communities with equal commitment.",
+      "The University serves approximately 3,00,000 students every year through well-qualified faculty, a diversified course structure, interdisciplinary research, and value-based education — all guided by its motto \"Dhiyo Yonah Prachodayat.\"",
+      "DAVV houses 33 teaching departments and centres offering undergraduate, postgraduate, and research programmes across 16 Faculties, in addition to 294 affiliated colleges. It is among the first universities in India to introduce innovative and integrated courses in Science, Engineering, Technology, Management, Law, and Media. Twenty of its 33 schools operate on a self-supporting basis, reflecting a strong march towards academic and financial self-reliance."
+    ]
+  },
+  "visionMissionDAVV": {
+    "title": "Vision & Mission — DAVV",
+    "vision": "Emerge as a premier higher learning institution by creating, advancing and disseminating knowledge with collective wisdom, through value imbued holistic education for peaceful, sustainable and humane society.",
+    "mission": [
+      "Educating and empowering the learners to realize their potential through righteous blending of knowledge, skills, and values for serving the society."
+    ]
+  },
+  "directorMessage": {
+    "title": "Director's Message",
+    "salutation": "Dear Students, Alumni, Parents and Well-Wishers,",
+    "body": [
+      "Welcome to the Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya, Indore.",
+      "When I walk through this campus — past the laboratories, the classrooms, the open corridors where students debate and dream — I am reminded every day of why I chose this profession. IET is not merely an institution; it is a living, breathing community of curious minds, and that curiosity, I believe, is the most powerful force in engineering.",
+      "I have spent over two and a half decades in this university system — as a faculty member, as an administrator, and now as Director. In that time, I have watched students arrive uncertain of themselves and leave as confident professionals who go on to build systems, lead teams, and solve real problems for real people. That transformation never gets old.",
+      "IET was founded in 1996 with 90 students and three branches. Today, we welcome over 900 students each year across a rich spectrum of programmes — from B.Tech and M.Tech to MBA, M.Sc, and Ph.D. Our curriculum has kept pace with the world: Artificial Intelligence, Digital Forensics, Green Technology, Data Science — these are no longer future subjects; they are today's classrooms. We are also proud to be the Principal Investigator institution for a ₹100 Crore ANRF-PAIR Project in collaboration with IIT Indore, which places us firmly among India's serious research contributors.",
+      "But beyond rankings and projects, what I care most about is this: that every student who passes through IET leaves with not just a degree, but a sense of direction — a clarity about who they are and what they want to contribute. The world is changing faster than any curriculum can capture. What we can give you is the ability to learn, adapt, and lead.",
+      "My door is always open — to ideas, to concerns, to conversations that matter. I look forward to building IET together with you."
+    ],
+    "signoff": "With warm regards and high expectations,"
+  },
+  "vcMessage": {
+    "title": "Vice Chancellor's Message",
+    "body": [
+      "As the Vice Chancellor of this esteemed university, my commitment lies in achieving excellence across all facets of our operations to enhance the higher education experience for our students. It is imperative to cultivate a culture of innovation, research, and ongoing improvement throughout the institution. Our priorities include modernizing the curriculum to reflect global trends and industry needs, fostering interdisciplinary programs, and integrating skill-based education.",
+      "We aim to develop a robust research environment through targeted funding, partnerships with industry and international organizations, and the creation of innovation centers at DAVV. Additionally, we will enhance our global presence by establishing partnerships, facilitating exchange programs, and attracting a diverse range of talent.",
+      "The university is committed to being responsive to the needs of underprivileged students by implementing inclusive policies and ensuring equitable opportunities — financial assistance through scholarships, mentorship programs and academic support systems including remedial classes and skill-building workshops, dedicated counseling services, accessible digital resources and technology lending programs.",
+      "My aim would be enhancing administrative efficiency, which is essential to implement comprehensive ERP systems for managing admissions, fee processing, examinations, and payroll, alongside AI-driven tools for workload management, grievance resolution, and student feedback."
+    ]
+  },
+  "milestones": [
+    {
+      "year": "1964",
+      "title": "DAVV established",
+      "detail": "Founded as the University of Indore by an Act of the MP Legislature; renamed in 1988 after Devi Ahilya Bai Holkar."
+    },
+    {
+      "year": "1996",
+      "title": "IET founded",
+      "detail": "Opened on 4 September with 90 students across three engineering branches."
+    },
+    {
+      "year": "2009–10",
+      "title": "Host to IIT Indore",
+      "detail": "The Vikramshila Parisar campus served as the temporary campus of IIT Indore."
+    },
+    {
+      "year": "2010",
+      "title": "ISHRAE student chapter",
+      "detail": "The IET chapter of the Indian Society of Heating, Refrigerating and Air Conditioning Engineers begins."
+    },
+    {
+      "year": "2025",
+      "title": "ANRF-PAIR project",
+      "detail": "IET becomes Principal Investigator institution for a ₹100 Crore national research project with IIT Indore as hub."
+    },
+    {
+      "year": "Today",
+      "title": "900+ students a year",
+      "detail": "27 programmes, 8 departments, 71+ faculty and over 100 research publications annually."
+    }
+  ]
+}

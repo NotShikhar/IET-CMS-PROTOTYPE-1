@@ -1,0 +1,15 @@
+{
+  "intro": "The institute sits on Khandwa Road in Indore, on the University's Vikramshila Parisar campus.",
+  "directions": [
+    { "from": "Devi Ahilyabai Holkar Airport", "detail": "Roughly 12 km south-east via the Ring Road and Khandwa Road; about 30 minutes by taxi." },
+    { "from": "Indore Railway Station", "detail": "Roughly 7 km south via Agra–Bombay Road and Khandwa Road; about 20 minutes by taxi or auto." }
+  ],
+  "offices": [
+    { "name": "Director's Office", "contact": "director@ietdavv.edu.in" },
+    { "name": "Administrative Office", "contact": "0731-2368531 · 9977820281" },
+    { "name": "Admission Cell", "contact": "98264 18567 · 89821 77634 · 88897 86191" },
+    { "name": "Website & Web Development Team", "contact": "webmaster@ietdavv.edu.in" },
+    { "name": "EDP (Result) Section", "contact": "M-Block — for discrepancies in results or grades, within 3 days of declaration" },
+    { "name": "Spoken Tutorial Coordinator", "contact": "C. P. Patidar · B-Block (B-201) · 9826490631 · cpatidar@ietdavv.edu.in" }
+  ]
+}

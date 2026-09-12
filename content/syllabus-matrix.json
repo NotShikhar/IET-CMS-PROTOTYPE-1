@@ -1,0 +1,843 @@
+[
+  {
+    "programme": "B.Tech",
+    "branch": "CSE",
+    "branchName": "Computer Engineering",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech",
+    "branch": "IT",
+    "branchName": "Information Technology",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech",
+    "branch": "ETC",
+    "branchName": "Electronics & Telecommunication Engineering",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech",
+    "branch": "EI",
+    "branchName": "Electronics & Instrumentation Engineering",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech",
+    "branch": "ME",
+    "branchName": "Mechanical Engineering",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech",
+    "branch": "CE",
+    "branchName": "Civil Engineering",
+    "semesters": {
+      "III": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "B.Tech (PTDC)",
+    "branch": "ME",
+    "branchName": "Mechanical Engineering",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      },
+      "VII": {
+        "status": "pending"
+      },
+      "VIII": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      },
+      {
+        "semester": "VII",
+        "status": "pending"
+      },
+      {
+        "semester": "VIII",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "CSE",
+    "branchName": "Computer Engineering",
+    "specialisation": "Software Engineering",
+    "mode": "Full-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "CSE",
+    "branchName": "Computer Engineering",
+    "specialisation": "Software Engineering",
+    "mode": "Part-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "IT",
+    "branchName": "Information Technology",
+    "specialisation": "Information Security",
+    "mode": "Full-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "IT",
+    "branchName": "Information Technology",
+    "specialisation": "Information Security",
+    "mode": "Part-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "EI",
+    "branchName": "Electronics & Instrumentation Engineering",
+    "specialisation": "Digital Instrumentation",
+    "mode": "Full-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "EI",
+    "branchName": "Electronics & Instrumentation Engineering",
+    "specialisation": "Digital Instrumentation",
+    "mode": "Part-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "ETC",
+    "branchName": "Electronics & Telecommunication Engineering",
+    "specialisation": "Digital Communication",
+    "mode": "Full-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "ETC",
+    "branchName": "Electronics & Telecommunication Engineering",
+    "specialisation": "Digital Communication",
+    "mode": "Part-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "ME",
+    "branchName": "Mechanical Engineering",
+    "specialisation": "Industrial Engineering & Management",
+    "mode": "Full-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Tech",
+    "branch": "ME",
+    "branchName": "Mechanical Engineering",
+    "specialisation": "Industrial Engineering & Management",
+    "mode": "Part-Time",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "III": {
+        "status": "pending"
+      },
+      "V": {
+        "status": "pending"
+      },
+      "II": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      },
+      "VI": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "II",
+        "status": "pending"
+      },
+      {
+        "semester": "III",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      },
+      {
+        "semester": "V",
+        "status": "pending"
+      },
+      {
+        "semester": "VI",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "programme": "M.Sc",
+    "branch": "Applied Science",
+    "branchName": "Applied Science",
+    "specialisation": "Computing and Informatics",
+    "semesters": {
+      "I": {
+        "status": "pending"
+      },
+      "IV": {
+        "status": "pending"
+      }
+    },
+    "semesterList": [
+      {
+        "semester": "I",
+        "status": "pending"
+      },
+      {
+        "semester": "IV",
+        "status": "pending"
+      }
+    ]
+  }
+]

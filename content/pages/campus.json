@@ -1,0 +1,20 @@
+{
+  "title": "Campus life",
+  "standfirst": "Building a vibrant community of creative and accomplished people.",
+  "gallery": [
+    { "src": "/media/campus/academic-block.jpg", "caption": "The main academic block, Vikramshila Parisar" },
+    { "src": "/media/campus/computer-engineering-dept.jpg", "caption": "Department of Computer Engineering" },
+    { "src": "/media/events/chess-tournament.jpg", "caption": "Inter-department chess tournament" },
+    { "src": "/media/campus/campus-03.jpg", "caption": "Across the campus" },
+    { "src": "/media/events/ishrae-01.jpg", "caption": "ISHRAE student chapter, running at IET since 2010" },
+    { "src": "/media/campus/campus-06.jpg", "caption": "Teaching blocks and grounds" },
+    { "src": "/media/campus/campus-09.jpg", "caption": "Campus grounds" },
+    { "src": "/media/events/campus-life-01.jpg", "caption": "Student activities" }
+  ],
+  "societies": [
+    { "name": "ISHRAE IET Chapter", "since": "2010", "detail": "The Indian Society of Heating, Refrigerating and Air Conditioning Engineers — conferences, seminars and workshops, started under the guidance of Dr. Sharad Choudhary, President ISHRAE-Indore." },
+    { "name": "SAE Collegiate Club", "since": "—", "detail": "Competes in SAE eBAJA and SAE-DDC; the institute tenders annually for competition components." },
+    { "name": "NSS", "since": "—", "detail": "National Service Scheme unit running community outreach." },
+    { "name": "Google Developer Student Club", "since": "—", "detail": "Student-run developer community." }
+  ]
+}
