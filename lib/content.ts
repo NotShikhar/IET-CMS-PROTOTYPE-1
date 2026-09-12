@@ -10,6 +10,8 @@ import aboutJson from '@/content/pages/about.json'
 import admissionsJson from '@/content/pages/admissions.json'
 import contactJson from '@/content/pages/contact.json'
 import campusJson from '@/content/pages/campus.json'
+import recruitersJson from '@/content/recruiters.json'
+import placementJson from '@/content/placement.json'
 
 /* ------------------------------------------------------------------- types */
 
@@ -18,10 +20,23 @@ export type DocKind =
   | 'exam-timetable'
   | 'syllabus'
   | 'roll-list'
+  | 'calendar'
   | 'project-format'
   | 'feedback-report'
   | 'admission'
   | 'disclosure'
+
+export interface NavItem {
+  label: string
+  href?: string
+  children?: NavItem[]
+}
+
+export interface Recruiter {
+  name: string
+  slug: string
+  logo: string
+}
 
 export type BranchCode = 'CSE' | 'IT' | 'ETC' | 'EI' | 'ME' | 'CE' | 'CSBS' | 'IP' | 'EEE' | 'Applied Science'
 
@@ -61,7 +76,8 @@ export interface SyllabusRow {
 
 /* -------------------------------------------------------------- accessors */
 
-export const site = siteJson
+// The JSON's `nav` widens to a shape TypeScript can't recurse on, so assert the tree type.
+export const site = siteJson as Omit<typeof siteJson, 'nav'> & { nav: NavItem[] }
 export const stats = statsJson
 export const programmes = programmesJson
 export const departments = departmentsJson
@@ -71,6 +87,8 @@ export const admissions = admissionsJson
 export const contact = contactJson
 export const campus = campusJson
 
+export const recruiters = recruitersJson as Recruiter[]
+export const placement = placementJson
 export const documents = documentsJson as Doc[]
 export const notices = noticesJson as Notice[]
 export const syllabusMatrix = syllabusJson as SyllabusRow[]
@@ -82,6 +100,7 @@ export const KIND_LABELS: Record<DocKind, string> = {
   'exam-timetable': 'Examination timetables',
   syllabus: 'Schemes & syllabi',
   'roll-list': 'Roll lists',
+  calendar: 'Calendars',
   'project-format': 'Project formats',
   'feedback-report': 'Feedback reports',
   admission: 'Admission information',
@@ -93,6 +112,7 @@ export const KIND_BLURBS: Record<DocKind, string> = {
   'exam-timetable': 'Theory and practical examination schedules, including revisions.',
   syllabus: 'Scheme and syllabus documents under the CBCS scheme.',
   'roll-list': 'Enrolment roll lists published at the start of the session.',
+  calendar: 'Institute and AICTE academic calendars for the session.',
   'project-format': 'Thesis, synopsis, SRS/SDS and report formats for final-year projects.',
   'feedback-report': 'Departmental student feedback and the action taken in response.',
   admission: 'Programme brochures, general information and frequently asked questions.',

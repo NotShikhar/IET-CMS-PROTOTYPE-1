@@ -1117,7 +1117,23 @@
     "updated": "2026-05-14"
   },
   {
-    "id": "disclosure-102",
+    "id": "calendar-102",
+    "title": "Academic Calendar 2025-26 (Revised)",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Academic_Calendar_Revised_2025-26.jpg",
+    "kind": "calendar",
+    "format": "jpg",
+    "updated": "2026-05-05"
+  },
+  {
+    "id": "calendar-103",
+    "title": "AICTE Academic Calendar 2025",
+    "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/AICTE_Academic_Calendar_2025-scaled.jpg",
+    "kind": "calendar",
+    "format": "jpg",
+    "updated": "2026-05-05"
+  },
+  {
+    "id": "disclosure-104",
     "title": "EOA(s)",
     "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/EoA.pdf",
     "kind": "disclosure",
@@ -1125,7 +1141,7 @@
     "updated": "2026-05-13"
   },
   {
-    "id": "disclosure-104",
+    "id": "disclosure-106",
     "title": "Summary of UGC Regulations",
     "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/Feedback_Report_Session-1-February-2024_31-May-2024_Department_Computer-Engineering.pdf",
     "kind": "disclosure",
@@ -1133,7 +1149,7 @@
     "updated": "2026-05-13"
   },
   {
-    "id": "disclosure-105",
+    "id": "disclosure-107",
     "title": "Summary of the Supreme court Judgment",
     "url": "https://ietdavv.edu.in/ietnew/wp-content/uploads/2026/05/SUMMARY_OF_UGC_REGULATIONS.pdf",
     "kind": "disclosure",

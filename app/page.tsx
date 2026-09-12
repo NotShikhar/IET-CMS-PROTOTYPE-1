@@ -1,7 +1,19 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { site, stats, about, programmes, campus, documents, KIND_LABELS, type DocKind } from '@/lib/content'
+import {
+  site,
+  stats,
+  about,
+  programmes,
+  campus,
+  documents,
+  placement,
+  recruiters,
+  KIND_LABELS,
+  type DocKind,
+} from '@/lib/content'
 import NoticeBoard from '@/components/NoticeBoard'
+import RecruiterMarquee from '@/components/RecruiterMarquee'
 
 const HUB_SHORTCUTS: { kind: DocKind; blurb: string }[] = [
   { kind: 'class-timetable', blurb: 'Weekly teaching schedule by branch, year and section' },
@@ -18,55 +30,110 @@ export default function HomePage() {
   return (
     <>
       {/* ------------------------------------------------------------ hero */}
-      <section className="relative overflow-hidden bg-green-900 text-on-green">
-        <Image
-          src="/media/campus/academic-block.jpg"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover opacity-[0.55]"
+      <section className="relative overflow-hidden border-b border-line bg-paper">
+        {/* A soft wash of the institute's green, kept behind the type rather than over it. */}
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute -right-24 -top-40 h-[520px] w-[520px] rounded-full bg-green-tint blur-3xl"
         />
         <div
           aria-hidden="true"
-          className="absolute inset-0 bg-gradient-to-r from-green-900 via-green-900/85 to-green-900/25"
+          className="pointer-events-none absolute -bottom-40 left-1/4 h-[380px] w-[380px] rounded-full bg-saffron-tint blur-3xl"
         />
-        <div className="shell relative py-20 md:py-32">
-          <div className="max-w-2xl rise">
-            <p className="text-[0.72rem] font-semibold uppercase tracking-[0.14em] text-gold">
+
+        <div className="shell relative grid items-center gap-12 py-14 lg:grid-cols-[1.05fr_1fr] lg:gap-16 lg:py-20">
+          <div className="rise">
+            <p className="flex items-center gap-2 text-[0.72rem] font-bold uppercase tracking-[0.14em] text-saffron-600">
+              <span aria-hidden="true" className="h-px w-7 bg-gold" />
               Devi Ahilya Vishwavidyalaya · Indore
             </p>
-            <h1 className="mt-6 text-[2.6rem] leading-[1.06] text-on-green md:text-[4.1rem]">
+            <h1 className="mt-5 text-[2.5rem] leading-[1.05] text-green-900 md:text-[3.6rem]">
               Knowledge meets innovation
             </h1>
-            <p className="mt-6 max-w-xl text-[1.05rem] leading-relaxed opacity-85 md:text-[1.15rem]">
+            <p className="mt-5 max-w-xl text-[1.02rem] leading-relaxed text-ink-2 md:text-[1.1rem]">
               Since 1996, the Institute of Engineering &amp; Technology has grown from ninety students to more
               than nine hundred a year — across nine engineering branches, seven postgraduate specialisations
               and eight doctoral streams.
             </p>
-            <div className="mt-9 flex flex-wrap gap-3">
+            <div className="mt-8 flex flex-wrap gap-3">
               <Link
                 href="/admissions"
-                className="rounded-md bg-saffron px-6 py-3 font-semibold text-on-saffron transition-colors hover:bg-saffron-600 hover:text-white"
+                className="rounded bg-saffron px-6 py-3 font-bold text-on-saffron transition-colors hover:bg-saffron-600 hover:text-white"
               >
                 Admissions 2026-27
               </Link>
               <Link
                 href="/resources"
-                className="rounded-md border border-white/25 px-6 py-3 font-medium text-on-green backdrop-blur-sm transition-colors hover:bg-white/10"
+                className="rounded border border-line-2 bg-card px-6 py-3 font-semibold text-green-700 transition-colors hover:border-green-600 hover:bg-green-tint"
               >
                 Find a document
               </Link>
             </div>
-            <p className="mt-10 flex flex-wrap items-center gap-x-5 gap-y-2 text-[0.78rem] opacity-70">
+            <ul className="mt-9 flex flex-wrap items-center gap-x-5 gap-y-2 text-[0.78rem] text-ink-3">
               {site.accreditation.map((a) => (
-                <span key={a} className="flex items-center gap-1.5">
-                  <span aria-hidden="true" className="h-1 w-1 rounded-full bg-gold" />
+                <li key={a} className="flex items-center gap-1.5">
+                  <span aria-hidden="true" className="h-1.5 w-1.5 rounded-full bg-gold" />
                   {a}
-                </span>
+                </li>
               ))}
+            </ul>
+          </div>
+
+          <div className="relative">
+            <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-line shadow-[var(--shadow-lg)]">
+              <Image
+                src="/media/campus/academic-block.jpg"
+                alt="The main academic block at IET DAVV, Vikramshila Parisar"
+                fill
+                priority
+                sizes="(max-width: 1024px) 100vw, 46vw"
+                className="object-cover"
+              />
+            </div>
+            {/* A small stat plate overlapping the photo, in the institute's green. */}
+            <div className="absolute -bottom-6 -left-4 hidden rounded-lg border border-line bg-card px-6 py-4 shadow-[var(--shadow-lg)] sm:block">
+              <p className="font-[family-name:var(--font-display)] text-[1.9rem] font-semibold leading-none text-green-700">
+                50
+              </p>
+              <p className="mt-1 text-[0.78rem] font-semibold text-ink-2">companies on campus</p>
+              <p className="text-[0.7rem] text-ink-3">2025-26 session</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ------------------------------------------------- recruiter rail */}
+      <section className="border-b border-line bg-paper-2 py-12">
+        <div className="shell">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <div>
+              <p className="eyebrow">Placements</p>
+              <h2 className="mt-2 text-[1.5rem] md:text-[1.8rem]">Where our graduates go</h2>
+            </div>
+            <p className="max-w-md text-[0.88rem] leading-relaxed text-ink-3">
+              {recruiters.length}+ companies have recruited on campus through the Centralized Placement Cell —
+              a selection is shown here.
             </p>
           </div>
+        </div>
+        <div className="mt-8">
+          <RecruiterMarquee />
+        </div>
+        <div className="shell mt-8">
+          <dl className="grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-4">
+            {placement.highlights.map((h) => (
+              <div key={h.label} className="border-t-2 border-gold pt-4">
+                <dt className="sr-only">{h.label}</dt>
+                <dd>
+                  <span className="block font-[family-name:var(--font-display)] text-[1.75rem] font-semibold leading-none text-green-700">
+                    {h.value}
+                  </span>
+                  <span className="mt-1.5 block text-[0.88rem] font-semibold text-ink">{h.label}</span>
+                  <span className="mt-1 block text-[0.78rem] leading-snug text-ink-3">{h.detail}</span>
+                </dd>
+              </div>
+            ))}
+          </dl>
         </div>
       </section>
 
@@ -76,7 +143,7 @@ export default function HomePage() {
           <div>
             <div className="flex items-baseline justify-between">
               <h2 className="text-[1.6rem]">Notices</h2>
-              <Link href="/notices" className="text-[0.85rem] font-medium text-saffron-600 hover:underline">
+              <Link href="/notices" className="text-[0.85rem] font-semibold text-saffron-600 hover:underline">
                 All notices →
               </Link>
             </div>
@@ -96,15 +163,13 @@ export default function HomePage() {
                 <Link
                   key={s.kind}
                   href={`/resources?kind=${s.kind}`}
-                  className="group rounded-[var(--radius)] border border-line bg-paper-2 p-4 transition-all hover:border-green-600 hover:bg-card hover:shadow-[var(--shadow-md)]"
+                  className="group rounded-lg border border-line bg-paper-2 p-4 transition-all hover:border-green-600 hover:bg-card hover:shadow-[var(--shadow-md)]"
                 >
                   <div className="flex items-baseline justify-between gap-2">
-                    <span className="text-[0.92rem] font-medium group-hover:text-green-700">
+                    <span className="text-[0.92rem] font-semibold group-hover:text-green-700">
                       {KIND_LABELS[s.kind]}
                     </span>
-                    <span className="shrink-0 text-[0.75rem] tabular-nums text-ink-3">
-                      {counts[s.kind]}
-                    </span>
+                    <span className="shrink-0 text-[0.75rem] tabular-nums text-ink-3">{counts[s.kind]}</span>
                   </div>
                   <p className="mt-1.5 text-[0.78rem] leading-snug text-ink-3">{s.blurb}</p>
                 </Link>
@@ -112,7 +177,7 @@ export default function HomePage() {
             </div>
             <Link
               href="/resources"
-              className="mt-4 inline-block text-[0.85rem] font-medium text-saffron-600 hover:underline"
+              className="mt-4 inline-block text-[0.85rem] font-semibold text-saffron-600 hover:underline"
             >
               Browse all {documents.length} documents →
             </Link>
@@ -121,9 +186,9 @@ export default function HomePage() {
       </section>
 
       {/* ------------------------------------------------------------ about */}
-      <section className="shell py-20 md:py-28">
+      <section className="shell py-20 md:py-24">
         <div className="grid gap-14 lg:grid-cols-[1fr_1.15fr] lg:gap-20">
-          <div className="relative aspect-[4/5] overflow-hidden rounded-[var(--radius)]">
+          <div className="relative aspect-[4/5] overflow-hidden rounded-xl border border-line">
             <Image
               src="/media/campus/computer-engineering-dept.jpg"
               alt="The Department of Computer Engineering building on the IET campus"
@@ -145,7 +210,7 @@ export default function HomePage() {
             </div>
             <Link
               href="/about"
-              className="mt-7 inline-block rounded-md border border-line-2 px-6 py-3 text-[0.9rem] font-medium transition-colors hover:border-green-600 hover:bg-green-tint hover:text-green-700"
+              className="mt-7 inline-block rounded border border-line-2 px-6 py-3 text-[0.9rem] font-semibold transition-colors hover:border-green-600 hover:bg-green-tint hover:text-green-700"
             >
               Read more about IET
             </Link>
@@ -162,10 +227,10 @@ export default function HomePage() {
               <div key={s.label}>
                 <dt className="sr-only">{s.label}</dt>
                 <dd>
-                  <span className="block font-[family-name:var(--font-display)] text-[2.4rem] font-semibold leading-none text-green-700">
+                  <span className="block font-[family-name:var(--font-display)] text-[2.3rem] font-semibold leading-none text-green-700">
                     {s.value}
                   </span>
-                  <span className="mt-2.5 block text-[0.92rem] font-medium text-ink">{s.label}</span>
+                  <span className="mt-2.5 block text-[0.92rem] font-semibold text-ink">{s.label}</span>
                   <span className="mt-1.5 block text-[0.8rem] leading-snug text-ink-3">{s.detail}</span>
                 </dd>
               </div>
@@ -175,17 +240,14 @@ export default function HomePage() {
       </section>
 
       {/* ------------------------------------------------------- programmes */}
-      <section className="shell py-20 md:py-28">
+      <section className="shell py-20 md:py-24">
         <div className="flex flex-wrap items-end justify-between gap-6">
           <div>
             <p className="eyebrow">What we teach</p>
             <div className="rule-gold mt-3.5" />
             <h2 className="mt-5 text-[2rem] md:text-[2.5rem]">Twenty-seven programmes</h2>
           </div>
-          <Link
-            href="/programmes"
-            className="text-[0.88rem] font-medium text-saffron-600 hover:underline"
-          >
+          <Link href="/programmes" className="text-[0.88rem] font-semibold text-saffron-600 hover:underline">
             All programmes →
           </Link>
         </div>
@@ -195,7 +257,7 @@ export default function HomePage() {
             <Link
               key={`${g.award}-${g.mode}`}
               href="/programmes"
-              className="group flex flex-col rounded-[var(--radius)] border border-line bg-card p-6 transition-all hover:border-green-600 hover:shadow-[var(--shadow-md)]"
+              className="group flex flex-col rounded-lg border border-line bg-card p-6 transition-all hover:border-green-600 hover:shadow-[var(--shadow-md)]"
             >
               <div className="flex items-baseline justify-between gap-3">
                 <h3 className="text-[1.3rem] group-hover:text-green-700">{g.award}</h3>
@@ -204,7 +266,7 @@ export default function HomePage() {
                 </span>
               </div>
               <p className="mt-3 flex-1 text-[0.86rem] leading-relaxed text-ink-2">{g.blurb}</p>
-              <p className="mt-5 text-[0.78rem] font-medium text-ink-3">
+              <p className="mt-5 text-[0.78rem] font-semibold text-ink-3">
                 {g.items.length} {g.items.length === 1 ? 'programme' : 'programmes'} · {g.duration}
               </p>
             </Link>
@@ -213,18 +275,17 @@ export default function HomePage() {
       </section>
 
       {/* ----------------------------------------------------- campus life */}
-      <section className="bg-green-900 py-20 text-on-green md:py-28">
+      <section className="border-t border-line bg-paper-2 py-20 md:py-24">
         <div className="shell">
-          <p className="text-[0.72rem] font-semibold uppercase tracking-[0.14em] text-gold">
-            Beyond the classroom
-          </p>
-          <h2 className="mt-4 max-w-2xl text-[2rem] text-on-green md:text-[2.6rem]">{campus.standfirst}</h2>
+          <p className="eyebrow">Beyond the classroom</p>
+          <div className="rule-gold mt-3.5" />
+          <h2 className="mt-5 max-w-2xl text-[2rem] md:text-[2.5rem]">{campus.standfirst}</h2>
 
           <div className="mt-12 grid grid-cols-2 gap-3 md:grid-cols-4">
             {campus.gallery.slice(0, 8).map((g, i) => (
               <figure
                 key={g.src}
-                className={`relative overflow-hidden rounded-[var(--radius)] ${
+                className={`group relative overflow-hidden rounded-lg border border-line ${
                   i === 0 || i === 5 ? 'col-span-2 aspect-[16/10]' : 'aspect-square'
                 }`}
               >
@@ -233,7 +294,7 @@ export default function HomePage() {
                   alt={g.caption}
                   fill
                   sizes="(max-width: 768px) 50vw, 25vw"
-                  className="object-cover transition-transform duration-500 hover:scale-105"
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               </figure>
             ))}
@@ -242,14 +303,14 @@ export default function HomePage() {
       </section>
 
       {/* ------------------------------------------------------ quick links */}
-      <section className="shell py-20">
+      <section className="shell py-16">
         <h2 className="text-[1.6rem]">Quick links</h2>
         <div className="mt-7 grid gap-2.5 sm:grid-cols-2 lg:grid-cols-4">
           {site.quickLinks.map((l) => (
             <Link
               key={l.label}
               href={l.href}
-              className="group flex items-center justify-between gap-3 rounded-[var(--radius)] border border-line bg-card px-4 py-3.5 text-[0.88rem] transition-all hover:border-green-600 hover:shadow-[var(--shadow-sm)]"
+              className="group flex items-center justify-between gap-3 rounded-lg border border-line bg-card px-4 py-3.5 text-[0.88rem] transition-all hover:border-green-600 hover:shadow-[var(--shadow-sm)]"
             >
               <span className="group-hover:text-green-700">{l.label}</span>
               <span aria-hidden="true" className="text-ink-3 transition-transform group-hover:translate-x-0.5">

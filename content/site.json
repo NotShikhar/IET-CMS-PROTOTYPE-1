@@ -20,42 +20,237 @@
     "pin": "452017",
     "country": "India"
   },
-  "phones": ["0731-2361116", "0731-2361117"],
+  "phones": [
+    "0731-2361116",
+    "0731-2361117"
+  ],
   "emails": {
     "director": "director@ietdavv.edu.in",
     "webmaster": "webmaster@ietdavv.edu.in"
   },
-  "admissionContacts": ["98264 18567", "89821 77634", "88897 86191"],
+  "admissionContacts": [
+    "98264 18567",
+    "89821 77634",
+    "88897 86191"
+  ],
   "social": [
-    { "label": "Facebook", "href": "#" },
-    { "label": "Instagram", "href": "#" },
-    { "label": "LinkedIn", "href": "#" },
-    { "label": "YouTube", "href": "#" }
+    {
+      "label": "Facebook",
+      "href": "#"
+    },
+    {
+      "label": "Instagram",
+      "href": "#"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "#"
+    },
+    {
+      "label": "YouTube",
+      "href": "#"
+    }
   ],
   "nav": [
-    { "label": "About", "href": "/about" },
-    { "label": "Programmes", "href": "/programmes" },
-    { "label": "Departments", "href": "/departments" },
-    { "label": "Admissions", "href": "/admissions" },
-    { "label": "Resources", "href": "/resources" },
-    { "label": "Notices", "href": "/notices" },
-    { "label": "Contact", "href": "/contact" }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about"
+    },
+    {
+      "label": "Academics",
+      "children": [
+        {
+          "label": "Programs",
+          "children": [
+            {
+              "label": "Programs Offered",
+              "href": "/programmes"
+            },
+            {
+              "label": "Programs Outcomes",
+              "href": "/programmes#outcomes"
+            }
+          ]
+        },
+        {
+          "label": "Calendar",
+          "children": [
+            {
+              "label": "Academic Calendar",
+              "href": "/resources?kind=calendar"
+            },
+            {
+              "label": "AICTE Calendar",
+              "href": "/resources?kind=calendar"
+            }
+          ]
+        },
+        {
+          "label": "Schedules",
+          "children": [
+            {
+              "label": "Class",
+              "href": "/resources?kind=class-timetable"
+            },
+            {
+              "label": "B.Tech. I Year Class Time Table",
+              "href": "/resources?kind=class-timetable&year=I"
+            },
+            {
+              "label": "Mtech & MSc Class Time Table",
+              "href": "/resources?kind=class-timetable&programme=M.Tech"
+            },
+            {
+              "label": "Test",
+              "href": "/resources?kind=class-timetable&year=I"
+            }
+          ]
+        },
+        {
+          "label": "Project Documents",
+          "href": "/resources?kind=project-format"
+        },
+        {
+          "label": "Syllabus (CBCS Scheme)",
+          "href": "/resources?kind=syllabus"
+        },
+        {
+          "label": "Notices",
+          "href": "/notices"
+        },
+        {
+          "label": "Roll List",
+          "href": "/resources?kind=roll-list"
+        }
+      ]
+    },
+    {
+      "label": "Admission",
+      "href": "/admissions"
+    },
+    {
+      "label": "Activities",
+      "children": [
+        {
+          "label": "GDSC",
+          "href": "/activities#gdsc"
+        },
+        {
+          "label": "IET-Newsletter",
+          "href": "/activities#newsletter"
+        },
+        {
+          "label": "Live@IET",
+          "href": "/activities#live"
+        },
+        {
+          "label": "NSS",
+          "href": "/activities#nss"
+        }
+      ]
+    },
+    {
+      "label": "Administration",
+      "children": [
+        {
+          "label": "Director’s Message",
+          "href": "/about#directors-message"
+        },
+        {
+          "label": "Faculty Areas",
+          "href": "/departments"
+        },
+        {
+          "label": "Administrative Officer",
+          "href": "/departments#administration"
+        }
+      ]
+    },
+    {
+      "label": "Examination",
+      "children": [
+        {
+          "label": "Exam Time Table",
+          "children": [
+            {
+              "label": "B.Tech I- BE IIyr-IVyr / BEPTDC / MSc /M.Tech",
+              "href": "/resources?kind=exam-timetable"
+            }
+          ]
+        },
+        {
+          "label": "Exam Notices",
+          "href": "/notices?tab=exam"
+        }
+      ]
+    },
+    {
+      "label": "Tender",
+      "href": "/notices?tab=tender"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
   ],
   "quickLinks": [
-    { "label": "Anti-Ragging & Discipline", "href": "/resources?kind=disclosure" },
-    { "label": "Mandatory Disclosure & EOA", "href": "/resources?kind=disclosure" },
-    { "label": "Scholarships", "href": "/admissions#scholarships" },
-    { "label": "Student Feedback", "href": "/resources?kind=feedback-report" },
-    { "label": "Examination Timetables", "href": "/resources?kind=exam-timetable" },
-    { "label": "Class Timetables", "href": "/resources?kind=class-timetable" },
-    { "label": "Roll Lists", "href": "/resources?kind=roll-list" },
-    { "label": "Project Formats", "href": "/resources?kind=project-format" }
+    {
+      "label": "Anti-Ragging & Discipline",
+      "href": "/resources?kind=disclosure"
+    },
+    {
+      "label": "Mandatory Disclosure & EOA",
+      "href": "/resources?kind=disclosure"
+    },
+    {
+      "label": "Scholarships",
+      "href": "/admissions#scholarships"
+    },
+    {
+      "label": "Student Feedback",
+      "href": "/resources?kind=feedback-report"
+    },
+    {
+      "label": "Examination Timetables",
+      "href": "/resources?kind=exam-timetable"
+    },
+    {
+      "label": "Class Timetables",
+      "href": "/resources?kind=class-timetable"
+    },
+    {
+      "label": "Roll Lists",
+      "href": "/resources?kind=roll-list"
+    },
+    {
+      "label": "Project Formats",
+      "href": "/resources?kind=project-format"
+    }
   ],
   "externalLinks": [
-    { "label": "DAVV University Website", "href": "https://www.dauniv.ac.in/" },
-    { "label": "Online Grievance Redressal", "href": "https://www.dauniv.ac.in/grievance-redressal-system" },
-    { "label": "Spoken Tutorial (IIT Bombay)", "href": "http://spoken-tutorial.org/" },
-    { "label": "McGraw Hill E-Books", "href": "https://resolver.vitalsource.com/" },
-    { "label": "Wiley E-Books", "href": "https://ebooks.wileyindia.com/" }
+    {
+      "label": "DAVV University Website",
+      "href": "https://www.dauniv.ac.in/"
+    },
+    {
+      "label": "Online Grievance Redressal",
+      "href": "https://www.dauniv.ac.in/grievance-redressal-system"
+    },
+    {
+      "label": "Spoken Tutorial (IIT Bombay)",
+      "href": "http://spoken-tutorial.org/"
+    },
+    {
+      "label": "McGraw Hill E-Books",
+      "href": "https://resolver.vitalsource.com/"
+    },
+    {
+      "label": "Wiley E-Books",
+      "href": "https://ebooks.wileyindia.com/"
+    }
   ]
 }

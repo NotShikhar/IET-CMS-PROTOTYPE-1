@@ -6,29 +6,35 @@
   the light theme is complete without a media query; the dark blocks only re-point tokens.
 */
 :root {
-  --paper: #faf7f0;
-  --paper-2: #f2ede2;
+  /*
+    Brightened for the client: the ground is near-white rather than cream, and the deep
+    greens are reserved for type, rules and small chips instead of large filled panels.
+    Green now reads as the institute's colour, not as the page's weight.
+  */
+  --paper: #ffffff;
+  --paper-2: #f4f7f4;
+  --paper-3: #eef3ef;
   --card: #ffffff;
-  --ink: #16241e;
-  --ink-2: #41544a;
-  --ink-3: #6b7c72;
-  --line: #e2dbcc;
-  --line-2: #d3c9b4;
+  --ink: #17241f;
+  --ink-2: #45574e;
+  --ink-3: #74857b;
+  --line: #e4eae5;
+  --line-2: #cfd9d2;
 
-  --green-900: #0b3b2c;
-  --green-800: #0d4434;
-  --green-700: #0f4c3a;
-  --green-600: #176a52;
-  --green-tint: #e3efe9;
+  --green-900: #0e4634;
+  --green-800: #11543f;
+  --green-700: #14614a;
+  --green-600: #1d7a5d;
+  --green-tint: #edf6f1;
 
-  --saffron: #e8821e;
-  --saffron-600: #b7620f;
-  --saffron-tint: #fdf0e0;
+  --saffron: #ee8a1f;
+  --saffron-600: #b4610d;
+  --saffron-tint: #fff4e6;
 
   --gold: #c9a227;
-  --gold-tint: #f8f1d9;
+  --gold-tint: #fbf5e2;
 
-  --on-green: #f6f2e8;
+  --on-green: #f4faf7;
   --on-saffron: #241203;
 
   --shadow-sm: 0 1px 2px rgb(11 59 44 / 0.06), 0 1px 3px rgb(11 59 44 / 0.04);
@@ -47,6 +53,7 @@
   :root:not([data-theme='light']) {
     --paper: #0c1512;
     --paper-2: #101c18;
+    --paper-3: #14211d;
     --card: #142320;
     --ink: #eef3f0;
     --ink-2: #b2c4bb;
@@ -80,6 +87,7 @@
 :root[data-theme='dark'] {
   --paper: #0c1512;
   --paper-2: #101c18;
+  --paper-3: #14211d;
   --card: #142320;
   --ink: #eef3f0;
   --ink-2: #b2c4bb;
@@ -113,6 +121,7 @@
 @theme inline {
   --color-paper: var(--paper);
   --color-paper-2: var(--paper-2);
+  --color-paper-3: var(--paper-3);
   --color-card: var(--card);
   --color-ink: var(--ink);
   --color-ink-2: var(--ink-2);
@@ -250,6 +259,72 @@
     background: var(--green-700);
     color: var(--on-green);
     border-radius: 6px;
+  }
+
+  /* ------------------------------------------------------- recruiter rail */
+
+  .marquee-wrap {
+    display: grid;
+    gap: 14px;
+    /* Fade both ends so logos enter and leave instead of being chopped at the edge. */
+    -webkit-mask-image: linear-gradient(to right, transparent, #000 9%, #000 91%, transparent);
+    mask-image: linear-gradient(to right, transparent, #000 9%, #000 91%, transparent);
+  }
+
+  .marquee {
+    overflow: hidden;
+  }
+
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    animation-name: marquee-slide;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  .marquee-track--reverse {
+    animation-direction: reverse;
+  }
+  .marquee-wrap:hover .marquee-track,
+  .marquee-wrap:focus-within .marquee-track {
+    animation-play-state: paused;
+  }
+
+  .marquee-group {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+  }
+
+  .marquee-item {
+    display: grid;
+    place-items: center;
+    flex: 0 0 auto;
+    height: 74px;
+    padding-inline: 26px;
+  }
+
+  .marquee-logo {
+    height: 30px;
+    width: auto;
+    max-width: 168px;
+    object-fit: contain;
+    opacity: 0.62;
+    transition: opacity 0.22s ease;
+  }
+  .marquee-item:hover .marquee-logo {
+    opacity: 1;
+  }
+
+  /* Two identical copies sit side by side, so -50% lands exactly on the seam. */
+  @keyframes marquee-slide {
+    from { transform: translate3d(0, 0, 0); }
+    to   { transform: translate3d(-50%, 0, 0); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .marquee { overflow-x: auto; }
+    .marquee-track { animation: none; }
   }
 
   @keyframes rise {

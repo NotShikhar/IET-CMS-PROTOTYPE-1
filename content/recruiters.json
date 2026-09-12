@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Walmart",
+    "slug": "walmart",
+    "logo": "/media/recruiters/walmart.png"
+  },
+  {
+    "name": "Google",
+    "slug": "google",
+    "logo": "/media/recruiters/google.png"
+  },
+  {
+    "name": "Amazon",
+    "slug": "amazon",
+    "logo": "/media/recruiters/amazon.png"
+  },
+  {
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "logo": "/media/recruiters/microsoft.png"
+  },
+  {
+    "name": "Beghou Consulting",
+    "slug": "beghou",
+    "logo": "/media/recruiters/beghou.png"
+  },
+  {
+    "name": "Deutsche Bank",
+    "slug": "deutsche-bank",
+    "logo": "/media/recruiters/deutsche-bank.png"
+  },
+  {
+    "name": "Cognizant",
+    "slug": "cognizant",
+    "logo": "/media/recruiters/cognizant.png"
+  },
+  {
+    "name": "Avalara",
+    "slug": "avalara",
+    "logo": "/media/recruiters/avalara.png"
+  },
+  {
+    "name": "Adani",
+    "slug": "adani",
+    "logo": "/media/recruiters/adani.png"
+  },
+  {
+    "name": "Asian Paints",
+    "slug": "asian-paints",
+    "logo": "/media/recruiters/asian-paints.png"
+  },
+  {
+    "name": "Capillary Technologies",
+    "slug": "capillary",
+    "logo": "/media/recruiters/capillary.png"
+  },
+  {
+    "name": "Appalto",
+    "slug": "appalto",
+    "logo": "/media/recruiters/appalto.png"
+  },
+  {
+    "name": "Barclays",
+    "slug": "barclays",
+    "logo": "/media/recruiters/barclays.png"
+  },
+  {
+    "name": "Capgemini",
+    "slug": "capgemini",
+    "logo": "/media/recruiters/capgemini.png"
+  },
+  {
+    "name": "CarWale",
+    "slug": "carwale",
+    "logo": "/media/recruiters/carwale.png"
+  },
+  {
+    "name": "CloudSEK",
+    "slug": "cloudsek",
+    "logo": "/media/recruiters/cloudsek.png"
+  },
+  {
+    "name": "ConsultAdd",
+    "slug": "consultadd",
+    "logo": "/media/recruiters/consultadd.png"
+  },
+  {
+    "name": "CoreEL Technologies",
+    "slug": "coreel",
+    "logo": "/media/recruiters/coreel.png"
+  },
+  {
+    "name": "Credit Suisse",
+    "slug": "credit-suisse",
+    "logo": "/media/recruiters/credit-suisse.png"
+  },
+  {
+    "name": "Arcesium",
+    "slug": "arcesium",
+    "logo": "/media/recruiters/arcesium.png"
+  },
+  {
+    "name": "CubexO",
+    "slug": "cubexo",
+    "logo": "/media/recruiters/cubexo.png"
+  },
+  {
+    "name": "Deqode",
+    "slug": "deqode",
+    "logo": "/media/recruiters/deqode.png"
+  },
+  {
+    "name": "DHL",
+    "slug": "dhl",
+    "logo": "/media/recruiters/dhl.png"
+  },
+  {
+    "name": "Dice",
+    "slug": "dice",
+    "logo": "/media/recruiters/dice.png"
+  },
+  {
+    "name": "DigiValet",
+    "slug": "digivalet",
+    "logo": "/media/recruiters/digivalet.png"
+  },
+  {
+    "name": "FLiPR",
+    "slug": "flipr",
+    "logo": "/media/recruiters/flipr.png"
+  },
+  {
+    "name": "Force Motors",
+    "slug": "force-motors",
+    "logo": "/media/recruiters/force-motors.png"
+  },
+  {
+    "name": "Forma.ai",
+    "slug": "forma-ai",
+    "logo": "/media/recruiters/forma-ai.png"
+  },
+  {
+    "name": "GammaEdge",
+    "slug": "gammaedge",
+    "logo": "/media/recruiters/gammaedge.png"
+  },
+  {
+    "name": "Growisto",
+    "slug": "growisto",
+    "logo": "/media/recruiters/growisto.png"
+  },
+  {
+    "name": "eClerx",
+    "slug": "eclerx",
+    "logo": "/media/recruiters/eclerx.png"
+  },
+  {
+    "name": "Groww",
+    "slug": "groww",
+    "logo": "/media/recruiters/groww.png"
+  },
+  {
+    "name": "Intellicus",
+    "slug": "intellicus",
+    "logo": "/media/recruiters/intellicus.png"
+  },
+  {
+    "name": "IDFC FIRST Bank",
+    "slug": "idfc-first-bank",
+    "logo": "/media/recruiters/idfc-first-bank.png"
+  },
+  {
+    "name": "Impetus",
+    "slug": "impetus",
+    "logo": "/media/recruiters/impetus.png"
+  },
+  {
+    "name": "Infosys",
+    "slug": "infosys",
+    "logo": "/media/recruiters/infosys.png"
+  },
+  {
+    "name": "JK Cement",
+    "slug": "jk-cement",
+    "logo": "/media/recruiters/jk-cement.png"
+  },
+  {
+    "name": "LG",
+    "slug": "lg",
+    "logo": "/media/recruiters/lg.png"
+  },
+  {
+    "name": "LTIMindtree",
+    "slug": "ltimindtree",
+    "logo": "/media/recruiters/ltimindtree.png"
+  },
+  {
+    "name": "L&T Technology Services",
+    "slug": "lt-technology-services",
+    "logo": "/media/recruiters/lt-technology-services.png"
+  },
+  {
+    "name": "Lumber",
+    "slug": "lumber",
+    "logo": "/media/recruiters/lumber.png"
+  },
+  {
+    "name": "Mastercard",
+    "slug": "mastercard",
+    "logo": "/media/recruiters/mastercard.png"
+  },
+  {
+    "name": "MediBuddy",
+    "slug": "medibuddy",
+    "logo": "/media/recruiters/medibuddy.png"
+  },
+  {
+    "name": "Mu Sigma",
+    "slug": "mu-sigma",
+    "logo": "/media/recruiters/mu-sigma.png"
+  },
+  {
+    "name": "Netlink",
+    "slug": "netlink",
+    "logo": "/media/recruiters/netlink.png"
+  },
+  {
+    "name": "NRI",
+    "slug": "nri",
+    "logo": "/media/recruiters/nri.png"
+  },
+  {
+    "name": "Nuclei",
+    "slug": "nuclei",
+    "logo": "/media/recruiters/nuclei.png"
+  },
+  {
+    "name": "NucleusTeq",
+    "slug": "nucleusteq",
+    "logo": "/media/recruiters/nucleusteq.png"
+  },
+  {
+    "name": "Ocean Friends",
+    "slug": "ocean-friends",
+    "logo": "/media/recruiters/ocean-friends.png"
+  },
+  {
+    "name": "PharmEasy",
+    "slug": "pharmeasy",
+    "logo": "/media/recruiters/pharmeasy.png"
+  },
+  {
+    "name": "Planful",
+    "slug": "planful",
+    "logo": "/media/recruiters/planful.png"
+  },
+  {
+    "name": "Platform9",
+    "slug": "platform9",
+    "logo": "/media/recruiters/platform9.png"
+  },
+  {
+    "name": "ProMobi",
+    "slug": "promobi",
+    "logo": "/media/recruiters/promobi.png"
+  },
+  {
+    "name": "PTC",
+    "slug": "ptc",
+    "logo": "/media/recruiters/ptc.png"
+  },
+  {
+    "name": "Quantiphi",
+    "slug": "quantiphi",
+    "logo": "/media/recruiters/quantiphi.png"
+  },
+  {
+    "name": "Questkart",
+    "slug": "questkart",
+    "logo": "/media/recruiters/questkart.png"
+  },
+  {
+    "name": "Kriti Industries",
+    "slug": "kriti-industries",
+    "logo": "/media/recruiters/kriti-industries.png"
+  },
+  {
+    "name": "Kirloskar",
+    "slug": "kirloskar",
+    "logo": "/media/recruiters/kirloskar.png"
+  },
+  {
+    "name": "Schneider Electric",
+    "slug": "schneider-electric",
+    "logo": "/media/recruiters/schneider-electric.png"
+  },
+  {
+    "name": "Unthinkable Solutions",
+    "slug": "unthinkable",
+    "logo": "/media/recruiters/unthinkable.png"
+  },
+  {
+    "name": "Tejas Networks",
+    "slug": "tejas-networks",
+    "logo": "/media/recruiters/tejas-networks.png"
+  },
+  {
+    "name": "TrueIGTech",
+    "slug": "trueigtech",
+    "logo": "/media/recruiters/trueigtech.png"
+  },
+  {
+    "name": "Unicharm",
+    "slug": "unicharm",
+    "logo": "/media/recruiters/unicharm.png"
+  },
+  {
+    "name": "YuvaSoft",
+    "slug": "yuvasoft",
+    "logo": "/media/recruiters/yuvasoft.png"
+  },
+  {
+    "name": "Volvo",
+    "slug": "volvo",
+    "logo": "/media/recruiters/volvo.png"
+  },
+  {
+    "name": "Truechip",
+    "slug": "truechip",
+    "logo": "/media/recruiters/truechip.png"
+  },
+  {
+    "name": "Rakuten Symphony",
+    "slug": "rakuten-symphony",
+    "logo": "/media/recruiters/rakuten-symphony.png"
+  },
+  {
+    "name": "Shakti Pumps",
+    "slug": "shakti-pumps",
+    "logo": "/media/recruiters/shakti-pumps.png"
+  },
+  {
+    "name": "Tata Technologies",
+    "slug": "tata-technologies",
+    "logo": "/media/recruiters/tata-technologies.png"
+  },
+  {
+    "name": "UBS",
+    "slug": "ubs",
+    "logo": "/media/recruiters/ubs.png"
+  },
+  {
+    "name": "Zensar",
+    "slug": "zensar",
+    "logo": "/media/recruiters/zensar.png"
+  },
+  {
+    "name": "ZS Associates",
+    "slug": "zs",
+    "logo": "/media/recruiters/zs.png"
+  }
+]

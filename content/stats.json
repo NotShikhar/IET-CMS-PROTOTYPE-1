@@ -1,10 +1,42 @@
 [
-  { "value": "1996", "label": "Established", "detail": "Founded 4 September with 90 students across three branches" },
-  { "value": "900+", "label": "Students admitted each year", "detail": "Across B.Tech, B.Des, M.Tech, MBA, M.Sc and Ph.D" },
-  { "value": "27", "label": "Programmes offered", "detail": "Nine B.Tech branches, seven M.Tech specialisations and eight doctoral streams" },
-  { "value": "8", "label": "Departments", "detail": "More than 71 regular, visiting and adjunct faculty members" },
-  { "value": "100+", "label": "Research publications a year", "detail": "Across national and international peer-reviewed journals" },
-  { "value": "₹57 LPA", "label": "Highest package", "detail": "Graduates placed in IT, manufacturing, consulting and core engineering" },
-  { "value": "₹100 Cr", "label": "ANRF-PAIR project", "detail": "IET is the Principal Investigator institution, with IIT Indore as hub" },
-  { "value": "A+", "label": "NAAC grade", "detail": "Devi Ahilya Vishwavidyalaya — first state university in MP to be graded A+" }
+  {
+    "value": "1996",
+    "label": "Established",
+    "detail": "Founded 4 September with 90 students across three branches"
+  },
+  {
+    "value": "900+",
+    "label": "Students admitted each year",
+    "detail": "Across B.Tech, B.Des, M.Tech, MBA, M.Sc and Ph.D"
+  },
+  {
+    "value": "27",
+    "label": "Programmes offered",
+    "detail": "Nine B.Tech branches, seven M.Tech specialisations and eight doctoral streams"
+  },
+  {
+    "value": "8",
+    "label": "Departments",
+    "detail": "More than 71 regular, visiting and adjunct faculty members"
+  },
+  {
+    "value": "100+",
+    "label": "Research publications a year",
+    "detail": "Across national and international peer-reviewed journals"
+  },
+  {
+    "value": "₹50 LPA",
+    "label": "Highest package",
+    "detail": "Highest package of the 2024-25 season (Centralized Placement Cell)"
+  },
+  {
+    "value": "₹100 Cr",
+    "label": "ANRF-PAIR project",
+    "detail": "IET is the Principal Investigator institution, with IIT Indore as hub"
+  },
+  {
+    "value": "A+",
+    "label": "NAAC grade",
+    "detail": "Devi Ahilya Vishwavidyalaya — first state university in MP to be graded A+"
+  }
 ]

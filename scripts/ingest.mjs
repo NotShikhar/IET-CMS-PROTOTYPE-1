@@ -572,6 +572,21 @@ function buildDocuments(pages, mediaByUrl) {
     }
   }
 
+  /* ---- 9b. Academic calendars (published as images, not PDFs) ------------ */
+  {
+    // These two live on their own pages as plain images rather than in a table, so they are
+    // named explicitly. They belong in the hub: students look for them alongside timetables.
+    const calendars = [
+      ['2026/05/Academic_Calendar_Revised_2025-26.jpg', 'Academic Calendar 2025-26 (Revised)'],
+      ['2026/05/AICTE_Academic_Calendar_2025-scaled.jpg', 'AICTE Academic Calendar 2025'],
+    ]
+    for (const [file, title] of calendars) {
+      const url = `${WP}/wp-content/uploads/${file}`
+      if (mediaByUrl.has(url)) add({ kind: 'calendar', url, title })
+      else add({ kind: 'calendar', url, title })
+    }
+  }
+
   /* ---- 10. Statutory disclosures & anti-ragging -------------------------- */
   for (const slug of ['mandatory-disclosure-and-eoas', 'anti-ragging-discipline-related']) {
     const html = pages[slug]?.html ?? ''

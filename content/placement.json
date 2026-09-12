@@ -1,0 +1,16 @@
+{
+  "source": "Placement_IET.pdf, Centralized Placement Cell, IET DAVV",
+  "headline": "Recruiters on campus",
+  "standfirst": "Fifty companies recruited on campus in the current session — from global technology and banking names to India's core engineering and manufacturing firms.",
+  "years": [
+    { "year": "2023-24", "companies": 43, "averageCTC": 6.3, "highestCTC": 22 },
+    { "year": "2024-25", "companies": 46, "averageCTC": 6.5, "highestCTC": 50 },
+    { "year": "2025-26", "companies": 50, "averageCTC": 6.7, "highestCTC": 22, "note": "as of now" }
+  ],
+  "highlights": [
+    { "value": "50", "label": "Companies on campus", "detail": "In the current 2025-26 session, up from 43 two years ago" },
+    { "value": "₹50 LPA", "label": "Highest package", "detail": "Awarded in the 2024-25 placement season" },
+    { "value": "₹6.7 LPA", "label": "Average package", "detail": "Across all branches in 2025-26" },
+    { "value": "70+", "label": "Recruiting partners", "detail": "Technology, banking, consulting, manufacturing and core engineering" }
+  ]
+}
